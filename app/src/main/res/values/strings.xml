@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">World Skills</string>
+    <string name="room_item">Room</string>
+    <string name="weather_item">Weather</string>
+</resources>
